@@ -1,1 +1,1 @@
-<iframe src="https://luatto.github.io/test/"></iframe>
+<iframe src="https://luatto.github.io/test/" width=100%></iframe>
